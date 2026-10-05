@@ -35,7 +35,6 @@ This project implements the requested NYC Yellow Taxi preprocessing workflow in 
 | Metric | Spark | Ray |
 |---|---:|---:|
 | Full execution time | 252.970 s | 1260.419 s |
-| Full execution time | 4m 12.97s | 21m 00.42s |
 | Relative time | 1.00× | 4.98× |
 | Peak process CPU | 323.5% | 101.3% |
 | Peak process memory | 16.4% | 11.6% |
